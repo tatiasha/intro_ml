@@ -1,12 +1,12 @@
 # Introduction to machine learning
 
-Solving practical tasks of the course [introducion to ml on coursera](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie).
+Solving practical tasks of the course [introduction to ml on coursera](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie).
 
-:clock8: week1. Introduction. Examples of tasks. Logical methods: decision trees and decision forests.
+:white_check_mark: week1. Introduction. Examples of tasks. Logical methods: decision trees and decision forests.
 
-:clock8: week2. Metric classification methods. Linear methods, stochastic gradient.
+:white_check_mark: week2. Metric classification methods. Linear methods, stochastic gradient.
 
-:clock8: week3. Support vector machine (SVM). Logistic regression. Classification quality metrics.
+:soon: week3. Support vector machine (SVM). Logistic regression. Classification quality metrics.
 
 :clock8: week4. Linear regression. Dimension reduction, principal component analysis.
 
